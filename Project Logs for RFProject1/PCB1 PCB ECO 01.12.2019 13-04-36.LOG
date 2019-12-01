@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=S\H\D\N\ Pin=J2-1
+Added Pin To Net: NetName=VOUT Pin=J2-3
+Added Pin To Net: NetName=CTRL Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-7

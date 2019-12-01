@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=S\H\D\N\ Pin=J2-1
+Removed Pin From Net: NetName=S\H\D\N\ Pin=J2-2
+Removed Pin From Net: NetName=VOUT Pin=J2-3
+Removed Pin From Net: NetName=VOUT Pin=J2-4
+Removed Pin From Net: NetName=CTRL Pin=J2-5
+Removed Pin From Net: NetName=CTRL Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Removed Member From Class: ClassName=Main Member=J2
+Added Component: Designator=F1(B8328)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(61001021121)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6100xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61001021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SON50P160X50_HS-7M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOT65P210X100-6N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=GND Pin=F1-3
+Added Pin To Net: NetName=GND Pin=F1-5
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=S\H\D\N\ Pin=J?-3
+Added Pin To Net: NetName=S\H\D\N\ Pin=J?-4
+Added Pin To Net: NetName=VOUT Pin=J?-5
+Added Pin To Net: NetName=VOUT Pin=J?-6
+Added Pin To Net: NetName=CTRL Pin=J?-7
+Added Pin To Net: NetName=CTRL Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=CTRL Pin=U1-1
+Added Pin To Net: NetName=NetF1_4 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetC5_1 Pin=U1-5
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=S\H\D\N\ Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VOUT Pin=U2-3
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NetC5_2 Pin=U2-6
+Added Member To Class: ClassName=Main Member=Component F1 B8328
+Added Member To Class: ClassName=Main Member=Component J? 61001021121
+Added Member To Class: ClassName=Main Member=Component U1 BGU7224
+Added Member To Class: ClassName=Main Member=Component U2 LTC5508

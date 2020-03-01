@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDC1608X100X30LL20T10_A New Footprint=INDC1006X60X20LL10T10
+Change component parameters: Designator = "L1"; Footprint = "INDC1006X60X20LL10T10"; UniqueID = "\MLWZVFHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0080LQW15A_00.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "09/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.17O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance-Nom"; Value = "10nH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1 x 0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current-Max"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Molded"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component L1 LQP15MN8N2B02D
+Added Room: Name=Main

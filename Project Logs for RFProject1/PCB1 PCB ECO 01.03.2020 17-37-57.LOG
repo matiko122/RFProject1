@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=*1 Old Footprint=SOT65P210X100-6N New Footprint=SON50P160X50_HS-7M
+Change Component Footprint: Designator=* Old Footprint=SOT65P210X100-6N New Footprint=SON50P160X50_HS-7M
+Added Pin To Net: NetName=GND Pin=*1-7
+Added Pin To Net: NetName=GND Pin=*-7
+Added Member To Class: ClassName=Main Member=Component C6 100nF
+Added Member To Class: ClassName=Main Member=Component C7 100pF

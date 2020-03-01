@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Net Name : Old Net Name=NetU2_6 New Net Name=NetU2_5
+Added Member To Class: ClassName=Main Member=Component U3 LTC5508

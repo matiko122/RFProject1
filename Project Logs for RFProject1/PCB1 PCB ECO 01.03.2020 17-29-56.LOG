@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetCN1_1 Pin=CN1-1
+Removed Pin From Net: NetName=NetF1_2 Pin=F1-2
+Removed Pin From Net: NetName=NetF1_3 Pin=F1-3
+Removed Pin From Net: NetName=NetCN1_1 Pin=L1-2
+Removed Pin From Net: NetName=NetF1_3 Pin=L2-2
+Removed Pin From Net: NetName=CTRL1 Pin=U1-1
+Removed Pin From Net: NetName=NetCN1_1 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=NetF1_2 Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=NetU2_5 Pin=U3-6
+Removed Member From Class: ClassName=Main Member=U1
+Added Component: Designator=*1(SOT65P210X100-6N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(SOT65P210X100-6N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CTRL2 Pin=*1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*1-4
+Added Pin To Net: NetName=NetF1_2 Pin=*1-5
+Added Pin To Net: NetName=VCC Pin=*1-6
+Added Pin To Net: NetName=CTRL1 Pin=*-1
+Added Pin To Net: NetName=NetF1_3 Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=NetU2_5 Pin=*-5
+Added Pin To Net: NetName=VCC Pin=*-6
+Added Pin To Net: NetName=NetF1_3 Pin=CN1-1
+Added Pin To Net: NetName=NetU2_5 Pin=F1-2
+Added Pin To Net: NetName=NetCN1_1 Pin=F1-3
+Added Pin To Net: NetName=NetF1_3 Pin=L1-2
+Added Pin To Net: NetName=NetCN1_1 Pin=L2-2
+Added Pin To Net: NetName=NetF1_2 Pin=U3-6
+Change Net Name : Old Net Name=NetCN1_1 New Net Name=Net*1_2
+Change Net Name : Old Net Name=NetF1_2 New Net Name=Net*1_5
+Change Net Name : Old Net Name=NetF1_3 New Net Name=Net*_2
+Change Net Name : Old Net Name=NetU2_5 New Net Name=Net*_5
+Added Member To Class: ClassName=Main Member=Component *1 BGU7224
+Added Member To Class: ClassName=Main Member=Component * BGU7224
+Added Member To Class: ClassName=Main Member=Component C6 100nF
+Added Member To Class: ClassName=Main Member=Component C7 100pF

@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator= NewDesignator=J?
+Added Component: Designator=AE?(7488910245)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Average Gain"; Value = "1dBi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/7488910245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "2400-2500MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "7488910245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Gain"; Value = "3dBi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Capacity"; Value = "3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "July 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "9.5x2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VSWR"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAE?_1 Pin=AE?-1
+Added Member To Class: ClassName=Main Member=Component AE? 2400-2500MHz, 3dBi
+Added Member To Class: ClassName=Main Member=Component J? 60311002114501

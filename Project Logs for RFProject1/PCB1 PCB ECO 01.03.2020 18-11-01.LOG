@@ -1,0 +1,8 @@
+Added Component: Designator=F(B8328)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_5 Pin=F-1
+Added Pin To Net: NetName=GND Pin=F-2
+Added Pin To Net: NetName=GND Pin=F-3
+Added Pin To Net: NetName=Net*1_2 Pin=F-4
+Added Pin To Net: NetName=GND Pin=F-5
+Added Member To Class: ClassName=Main Member=Component F B8328

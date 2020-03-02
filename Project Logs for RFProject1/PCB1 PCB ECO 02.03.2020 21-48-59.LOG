@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=F1-1
+Removed Pin From Net: NetName=GND Pin=F1-2
+Removed Pin From Net: NetName=GND Pin=F1-3
+Removed Pin From Net: NetName=FILTR_OUT Pin=F1-4
+Removed Pin From Net: NetName=GND Pin=F1-5
+Removed Member From Class: ClassName=Main Member=F1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=NetC11_1 Pin=*-2
+Added Pin To Net: NetName=FILTR_OUT Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Change Net Name : Old Net Name=NetC11_1 New Net Name=Net*_2
+Added Member To Class: ClassName=Main Member=Component * BGU7224
+Added Room: Name=Main

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=Net*_2 Pin=C11-1
+Change Component Designator: OldDesignator=* NewDesignator=F
+Added Pin To Net: NetName=Net*_2 Pin=C11-1
+Added Pin To Net: NetName=Net*_2 Pin=F-2
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetC11_1
+Added Member To Class: ClassName=Main Member=Component F LBP.2450.X.C.30

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=Net*_2 Pin=C11-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=C11-1
+Added Member To Class: ClassName=Main Member=Component * BGU7224
+Added Member To Class: ClassName=Main Member=Component C11 1.4pF

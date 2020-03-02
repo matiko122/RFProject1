@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\Git\RFProject1\PCB1.PcbDoc
-Date     : 01.03.2020
-Time     : 18:22:36
+Date     : 02.03.2020
+Time     : 21:43:23
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -34,7 +34,9 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
-Rule Violations :0
+   Violation between Minimum Solder Mask Sliver Constraint: (0.06mm < 0.08mm) Between Pad C5-1(110.48mm,95.97mm) on Top Layer And Pad C7-1(110.48mm,96.85mm) on Top Layer [Top Solder] Mask Sliver [0.06mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.06mm < 0.08mm) Between Pad C5-2(111.48mm,95.97mm) on Top Layer And Pad C7-2(111.48mm,96.85mm) on Top Layer [Top Solder] Mask Sliver [0.06mm]
+Rule Violations :2
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
@@ -52,6 +54,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:00

@@ -1,9 +1,11 @@
-Płyta dwuwarstwowa, zielona soldermaska, silkscreen na warstwie TOP
+Płyta dwuwarstwowa, zielona soldermaska, silkscreen biały na warstwie TOP
+Ilośc: 10 szt.
 Wymiary: 55,4 mm x 16 mm
 Grubość PCB: 0.6 mm
 Grubość miedzi: 35 um
 Najcieńsza ścieżka: 0.25 mm
 Najmniejszy otwór: 0.3 mm
+Najmniejsza odległość między ścieżkami: 0.15 mm
 
 Jednostki pliku Gerber: Inches(Cale) 2:5
 Jednostki pliku Drill: Inches(Cale) 2:5

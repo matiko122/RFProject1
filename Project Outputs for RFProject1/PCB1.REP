@@ -7,13 +7,31 @@ Generating : Bottom Layer
 
     Adding Layer      : Bottom Layer
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB1.GTL
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
     D30
     D31
     D32
@@ -23,6 +41,24 @@ Used DCodes :
     D36
     D37
     D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
 *************************************************************
 
 *************************************************************
@@ -31,20 +67,17 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D10
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : PCB1.GTL
+Generating : Top Solder
+      File : PCB1.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
 
     Adding Layer      : Multi-Layer
 
@@ -70,14 +103,28 @@ Used DCodes :
     D27
     D28
     D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -86,10 +133,18 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
     Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
+    D58
 *************************************************************
 
